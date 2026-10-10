@@ -16,7 +16,7 @@ app_name: "bob"
 
 # HTTPS website URL that opens when the app starts.
 # Use a complete HTTPS URL. Example: "https://example.com/"
-website_url: "https://google.com/"
+website_url: "https://zesty-travesseiro-36fa05.netlify.app"
 
 
 # Version number of the generated Android application.
