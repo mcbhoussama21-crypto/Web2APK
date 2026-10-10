@@ -11,12 +11,12 @@
 
 # Name displayed in the Android app drawer.
 # Use normal text. Example: "Website"
-app_name: "Website"
+app_name: "bob"
 
 
 # HTTPS website URL that opens when the app starts.
 # Use a complete HTTPS URL. Example: "https://example.com/"
-website_url: "https://example.com/"
+website_url: "https://google.com/"
 
 
 # Version number of the generated Android application.
@@ -26,7 +26,7 @@ version: "1.0.0"
 
 # Final part of the generated Android package name.
 # The complete package name is: com.minecade.<package_suffix>
-package_suffix: "website"
+package_suffix: "bob"
 
 
 # Launcher icon for the generated Android application.
@@ -36,7 +36,7 @@ icon: "config/icon.png"
 
 # Background color displayed behind the splash screen icon.
 # Use "white", "black", or a 6-digit hex color such as "#121212".
-splash_background: white
+splash_background: "#121212"
 
 
 # Toolbar color used by the website's Android Custom Tab.
@@ -46,7 +46,7 @@ toolbar_color: "#121212"
 
 # Controls whether the website title is displayed in the toolbar.
 # Set to true to show the title or false to hide it.
-show_title: true
+show_title: false
 
 
 # Controls whether the Custom Tab URL bar can hide while scrolling.
